@@ -1,6 +1,6 @@
 # powerBI-projects
 After graduating from University of Southampton with Master degree in Logistics and Supply Chain Analytics, I found PowerBI a powerful tools in data modelling and visualization
 
-Link to HM Trademap: https://app.powerbi.com/links/AR0hq2Cxvs?ctid=4a5378f9-29f4-4d3e-be89-669d03ada9d8&pbi_source=linkShare
+Link to HM Trademap: https://app.powerbi.com/view?r=eyJrIjoiZTVkMmY4NzAtM2IwZS00YTU0LTgwYzktNmM0ZTkyMWE0NDY5IiwidCI6IjRhNTM3OGY5LTI5ZjQtNGQzZS1iZTg5LTY2OWQwM2FkYTlkOCIsImMiOjh9
 
-Link to Dashboard for E-commerce PLatform: https://app.powerbi.com/links/mZ9Ng97wJs?ctid=4a5378f9-29f4-4d3e-be89-669d03ada9d8&pbi_source=linkShare
+Link to Dashboard for E-commerce PLatform: https://app.powerbi.com/view?r=eyJrIjoiOWJlOGVkMTEtMmY0Ny00NjEwLTliNzItNjljZjZlYTNhM2ZkIiwidCI6IjRhNTM3OGY5LTI5ZjQtNGQzZS1iZTg5LTY2OWQwM2FkYTlkOCIsImMiOjh9
